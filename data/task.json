@@ -1,0 +1,56 @@
+[
+{
+  "model": "todo.task",
+  "pk": 1,
+  "fields": {
+    "task_detail": "Create a website",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+},
+{
+  "model": "todo.task",
+  "pk": 2,
+  "fields": {
+    "task_detail": "Practice mid term",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+},
+{
+  "model": "todo.task",
+  "pk": 3,
+  "fields": {
+    "task_detail": "Go to exercise",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+},
+{
+  "model": "todo.task",
+  "pk": 4,
+  "fields": {
+    "task_detail": "Eat rice",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+},
+{
+  "model": "todo.task",
+  "pk": 5,
+  "fields": {
+    "task_detail": "Edit Task",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+},
+{
+  "model": "todo.task",
+  "pk": 6,
+  "fields": {
+    "task_detail": "Test_Ez",
+    "is_complete": false,
+    "create_date": "2023-09-17"
+  }
+}
+]

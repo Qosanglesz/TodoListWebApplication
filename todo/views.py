@@ -32,4 +32,3 @@ def delete(request, task_id):
     task = Task.objects.get(id=task_id)
     task.delete()
     return redirect("/")
-    
