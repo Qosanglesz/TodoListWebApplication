@@ -46,8 +46,8 @@
             <td>{{task.task_detail}}</td>
             <td>{{task.create_date}}</td>
             <td>{{task.is_complete}}</td>
-            <td><a href="#">Update</a></td>
-            <td><a href="#">Delete</a></td>
+            <td><a href="update/{{task.id}}">Update</a></td>
+            <td><a href="delete/{{task.id}}">Delete</a></td>
           </tr>
           {%endfor%}
         </tbody>
